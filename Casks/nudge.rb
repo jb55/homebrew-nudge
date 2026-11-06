@@ -1,7 +1,6 @@
 cask "nudge" do
   version "1.0.0"
-  # Set by nudge's release.sh output once v1.0.0 is published.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "64af8b13c99b40bb49ecafe981e3270d46fa175a76afe228ee062a437b3b0c65"
 
   url "https://github.com/jb55/nudge/releases/download/v#{version}/Nudge-#{version}.zip"
   name "Nudge"
